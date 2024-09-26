@@ -1,0 +1,10 @@
+C:\Users\technopc\source\repos\form2 v2\form2 v2\bin\Debug\form2 v1.exe.config
+C:\Users\technopc\source\repos\form2 v2\form2 v2\bin\Debug\form2 v1.exe
+C:\Users\technopc\source\repos\form2 v2\form2 v2\bin\Debug\form2 v1.pdb
+C:\Users\technopc\source\repos\form2 v2\form2 v2\obj\Debug\form2 v2.csproj.AssemblyReference.cache
+C:\Users\technopc\source\repos\form2 v2\form2 v2\obj\Debug\form2_v1.Form1.resources
+C:\Users\technopc\source\repos\form2 v2\form2 v2\obj\Debug\form2_v1.Properties.Resources.resources
+C:\Users\technopc\source\repos\form2 v2\form2 v2\obj\Debug\form2 v2.csproj.GenerateResource.cache
+C:\Users\technopc\source\repos\form2 v2\form2 v2\obj\Debug\form2 v2.csproj.CoreCompileInputs.cache
+C:\Users\technopc\source\repos\form2 v2\form2 v2\obj\Debug\form2 v1.exe
+C:\Users\technopc\source\repos\form2 v2\form2 v2\obj\Debug\form2 v1.pdb
